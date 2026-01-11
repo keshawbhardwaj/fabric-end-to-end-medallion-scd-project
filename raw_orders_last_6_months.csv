@@ -1,0 +1,501 @@
+OrderID,OrderLineID,OrderDate,CustomerID,CustomerName,Gender,DOB,Email,Phone,City,State,Country,ProductID,ProductName,Category,SubCategory,Brand,Quantity,UnitPrice,DiscountAmount,SalesChannel,PaymentMode,OrderStatus,OrderCreatedTimestamp
+O6000,1,2025-10-13,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,3,899,,Store,Cash,Cancelled,2025-10-13
+O6001,1,2025-10-06,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,2,349,0.0,Online,Cash,Completed,2025-10-06
+O6002,1,2025-11-21,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,2,699,0.0,Online,Cash,Completed,2025-11-21
+O6003,1,2025-11-02,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,4,2499,50.0,Store,Cash,Cancelled,2025-11-02
+O6004,1,2025-09-07,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,3,899,0.0,Online,Cash,Cancelled,2025-09-07
+O6005,1,2025-08-29,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,1,1599,50.0,Online,UPI,Completed,2025-08-29
+O6006,1,2025-09-10,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,2,1599,,Store,Cash,Completed,2025-09-10
+O6007,1,2025-10-19,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,4,2499,0.0,Store,Card,Completed,2025-10-19
+O6008,1,2025-11-27,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,2,699,,Store,Cash,Completed,2025-11-27
+O6009,1,2025-08-17,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,1,349,50.0,Online,Cash,Completed,2025-08-17
+O6010,1,2025-12-20,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,1,699,0.0,Online,Cash,Completed,2025-12-20
+O6011,1,2025-11-25,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,4,699,50.0,Store,UPI,Cancelled,2025-11-25
+O6012,1,2025-11-21,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,3,2499,100.0,Store,Cash,Completed,2025-11-21
+O6013,1,2025-09-04,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,2,1599,100.0,Online,Cash,Completed,2025-09-04
+O6014,1,2025-08-04,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,3,2499,0.0,Store,Cash,Completed,2025-08-04
+O6015,1,2025-12-21,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,2,699,,Store,UPI,Cancelled,2025-12-21
+O6016,1,2025-09-15,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,2,899,,Store,Card,Completed,2025-09-15
+O6017,1,2025-10-08,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,1,699,0.0,Store,Card,Completed,2025-10-08
+O6018,1,2025-11-19,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,1,699,0.0,Online,Cash,Completed,2025-11-19
+O6019,1,2025-12-26,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,4,2499,,Online,Cash,Completed,2025-12-26
+O6020,1,2025-11-21,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,3,899,,Store,Card,Completed,2025-11-21
+O6021,1,2025-11-02,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,3,699,,Store,Card,Completed,2025-11-02
+O6022,1,2025-09-15,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,4,349,0.0,Online,Cash,Completed,2025-09-15
+O6023,1,2025-09-29,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,1,2499,100.0,Store,Card,Cancelled,2025-09-29
+O6024,1,2025-11-23,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,2,699,50.0,Store,Cash,Cancelled,2025-11-23
+O6025,1,2025-08-09,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,2,2499,50.0,Online,Card,Completed,2025-08-09
+O6026,1,2025-11-11,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,3,2499,0.0,Store,UPI,Completed,2025-11-11
+O6027,1,2025-12-31,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,4,899,0.0,Online,UPI,Completed,2025-12-31
+O6028,1,2025-08-27,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,3,899,100.0,Online,Card,Completed,2025-08-27
+O6029,1,2025-09-14,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,4,899,100.0,Online,Cash,Completed,2025-09-14
+O6030,1,2025-09-20,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,3,349,50.0,Store,UPI,Cancelled,2025-09-20
+O6031,1,2025-12-20,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,3,1599,,Store,UPI,Cancelled,2025-12-20
+O6032,1,2025-11-27,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,4,2499,0.0,Online,UPI,Completed,2025-11-27
+O6033,1,2025-12-01,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,3,899,100.0,Online,Cash,Completed,2025-12-01
+O6034,1,2025-09-09,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,1,699,50.0,Store,UPI,Completed,2025-09-09
+O6035,1,2025-12-07,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,2,349,50.0,Store,UPI,Cancelled,2025-12-07
+O6036,1,2025-08-03,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,1,699,,Online,Cash,Completed,2025-08-03
+O6037,1,2025-11-22,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,4,349,0.0,Online,Card,Completed,2025-11-22
+O6038,1,2025-10-15,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,4,699,,Online,Cash,Cancelled,2025-10-15
+O6039,1,2025-10-28,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,2,349,0.0,Online,UPI,Completed,2025-10-28
+O6040,1,2025-09-17,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,4,899,,Store,Cash,Completed,2025-09-17
+O6041,1,2025-12-19,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,4,2499,0.0,Online,UPI,Cancelled,2025-12-19
+O6042,1,2025-11-22,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,3,2499,100.0,Online,UPI,Completed,2025-11-22
+O6043,1,2025-11-04,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,3,349,50.0,Online,Cash,Completed,2025-11-04
+O6044,1,2025-11-01,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,2,699,0.0,Online,Card,Completed,2025-11-01
+O6045,1,2025-12-16,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,3,899,0.0,Online,UPI,Cancelled,2025-12-16
+O6046,1,2025-11-08,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,3,699,0.0,Store,UPI,Completed,2025-11-08
+O6047,1,2025-12-24,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,2,699,50.0,Online,UPI,Completed,2025-12-24
+O6048,1,2025-08-30,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,4,699,0.0,Store,Cash,Completed,2025-08-30
+O6049,1,2025-10-04,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,2,2499,50.0,Online,Cash,Completed,2025-10-04
+O6050,1,2025-10-28,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,3,699,0.0,Store,UPI,Cancelled,2025-10-28
+O6051,1,2025-11-17,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,2,349,0.0,Online,Cash,Completed,2025-11-17
+O6052,1,2025-11-26,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,4,1599,0.0,Online,UPI,Completed,2025-11-26
+O6053,1,2025-12-29,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,4,899,,Store,Card,Cancelled,2025-12-29
+O6054,1,2025-11-16,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,1,699,0.0,Online,Cash,Cancelled,2025-11-16
+O6055,1,2025-09-01,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,3,2499,,Online,UPI,Cancelled,2025-09-01
+O6056,1,2025-09-29,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,3,899,100.0,Store,Cash,Completed,2025-09-29
+O6057,1,2025-08-09,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,4,699,100.0,Store,UPI,Completed,2025-08-09
+O6058,1,2025-10-29,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,3,349,100.0,Online,UPI,Completed,2025-10-29
+O6059,1,2025-09-12,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,3,899,,Online,Cash,Cancelled,2025-09-12
+O6060,1,2025-09-23,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,3,699,,Online,Card,Cancelled,2025-09-23
+O6061,1,2025-12-14,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,1,1599,100.0,Store,Cash,Completed,2025-12-14
+O6062,1,2025-11-11,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,2,699,0.0,Store,Cash,Completed,2025-11-11
+O6063,1,2025-10-03,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,1,899,50.0,Store,Card,Cancelled,2025-10-03
+O6064,1,2025-10-15,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,2,2499,50.0,Online,UPI,Cancelled,2025-10-15
+O6065,1,2025-08-07,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,2,349,0.0,Online,Cash,Completed,2025-08-07
+O6066,1,2025-09-13,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,1,2499,100.0,Online,Card,Completed,2025-09-13
+O6067,1,2025-11-21,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,2,899,,Store,Card,Completed,2025-11-21
+O6068,1,2025-08-07,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,4,699,0.0,Online,UPI,Completed,2025-08-07
+O6069,1,2025-10-14,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,2,1599,50.0,Online,Card,Completed,2025-10-14
+O6070,1,2025-11-30,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,1,699,0.0,Store,Cash,Completed,2025-11-30
+O6071,1,2025-10-13,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,2,699,50.0,Store,UPI,Completed,2025-10-13
+O6072,1,2025-12-10,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,4,899,,Store,Cash,Completed,2025-12-10
+O6073,1,2025-09-13,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,3,349,0.0,Store,Cash,Cancelled,2025-09-13
+O6074,1,2025-08-05,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,3,699,50.0,Online,UPI,Cancelled,2025-08-05
+O6075,1,2025-12-25,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,4,699,0.0,Online,Cash,Completed,2025-12-25
+O6076,1,2025-11-13,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,2,899,0.0,Online,UPI,Cancelled,2025-11-13
+O6077,1,2025-12-07,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,3,349,,Store,UPI,Cancelled,2025-12-07
+O6078,1,2025-12-05,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,4,899,50.0,Store,Cash,Cancelled,2025-12-05
+O6079,1,2025-10-09,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,1,699,50.0,Store,Cash,Completed,2025-10-09
+O6080,1,2025-09-16,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,1,1599,,Store,Cash,Cancelled,2025-09-16
+O6081,1,2025-12-07,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,4,899,,Online,UPI,Cancelled,2025-12-07
+O6082,1,2025-08-08,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,4,2499,,Store,UPI,Completed,2025-08-08
+O6083,1,2025-09-28,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,3,699,,Online,UPI,Cancelled,2025-09-28
+O6084,1,2025-09-11,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,4,1599,0.0,Store,UPI,Completed,2025-09-11
+O6085,1,2026-01-02,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,1,349,50.0,Online,Card,Cancelled,2026-01-02
+O6086,1,2025-12-15,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,4,899,100.0,Online,Cash,Cancelled,2025-12-15
+O6087,1,2025-09-08,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,2,2499,50.0,Store,Card,Completed,2025-09-08
+O6088,1,2025-08-17,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,4,1599,,Store,Card,Cancelled,2025-08-17
+O6089,1,2025-10-31,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,1,349,0.0,Store,Card,Completed,2025-10-31
+O6090,1,2025-12-13,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,4,699,50.0,Online,Card,Completed,2025-12-13
+O6091,1,2025-09-11,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,2,2499,100.0,Online,Cash,Cancelled,2025-09-11
+O6092,1,2025-11-09,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,4,2499,0.0,Store,Card,Cancelled,2025-11-09
+O6093,1,2025-11-08,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,1,349,100.0,Online,Card,Completed,2025-11-08
+O6094,1,2025-08-03,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,2,2499,0.0,Store,Cash,Cancelled,2025-08-03
+O6095,1,2025-11-18,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,3,349,,Online,Cash,Completed,2025-11-18
+O6096,1,2025-12-31,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,3,1599,0.0,Store,Cash,Completed,2025-12-31
+O6097,1,2025-12-06,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,1,699,100.0,Store,Card,Cancelled,2025-12-06
+O6098,1,2025-11-26,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,1,699,100.0,Store,Cash,Completed,2025-11-26
+O6099,1,2025-11-15,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,2,699,,Online,UPI,Cancelled,2025-11-15
+O6100,1,2025-12-10,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,1,1599,100.0,Online,Cash,Completed,2025-12-10
+O6101,1,2025-11-24,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,1,1599,0.0,Online,UPI,Completed,2025-11-24
+O6102,1,2025-12-10,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,1,349,,Store,UPI,Cancelled,2025-12-10
+O6103,1,2025-08-20,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,2,1599,50.0,Online,Card,Cancelled,2025-08-20
+O6104,1,2026-01-03,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,2,2499,50.0,Online,Card,Completed,2026-01-03
+O6105,1,2025-10-31,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,3,2499,,Online,Cash,Cancelled,2025-10-31
+O6106,1,2025-11-21,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,3,699,0.0,Store,Cash,Completed,2025-11-21
+O6107,1,2025-09-23,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,2,349,0.0,Store,UPI,Completed,2025-09-23
+O6108,1,2025-10-23,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,1,2499,50.0,Online,Cash,Cancelled,2025-10-23
+O6109,1,2025-12-03,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,2,2499,50.0,Online,Cash,Completed,2025-12-03
+O6110,1,2025-11-30,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,3,2499,50.0,Store,Cash,Completed,2025-11-30
+O6111,1,2025-08-04,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,4,2499,50.0,Store,Cash,Cancelled,2025-08-04
+O6112,1,2025-08-05,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,4,699,100.0,Store,Cash,Completed,2025-08-05
+O6113,1,2025-10-05,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,4,699,50.0,Store,UPI,Completed,2025-10-05
+O6114,1,2025-12-26,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,4,699,100.0,Online,UPI,Completed,2025-12-26
+O6115,1,2025-09-04,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,2,899,,Store,Cash,Completed,2025-09-04
+O6116,1,2025-08-07,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,2,699,50.0,Store,UPI,Completed,2025-08-07
+O6117,1,2025-09-19,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,4,899,,Store,Cash,Completed,2025-09-19
+O6118,1,2025-09-28,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,1,349,0.0,Store,Cash,Completed,2025-09-28
+O6119,1,2025-09-29,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,4,699,100.0,Online,Card,Completed,2025-09-29
+O6120,1,2025-12-16,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,2,1599,0.0,Online,Cash,Completed,2025-12-16
+O6121,1,2025-08-28,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,1,349,100.0,Online,UPI,Completed,2025-08-28
+O6122,1,2025-08-19,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,1,1599,100.0,Online,Card,Cancelled,2025-08-19
+O6123,1,2025-08-10,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,3,1599,50.0,Store,UPI,Completed,2025-08-10
+O6124,1,2025-08-25,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,3,899,50.0,Store,Card,Completed,2025-08-25
+O6125,1,2025-12-28,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,3,699,,Online,Cash,Completed,2025-12-28
+O6126,1,2025-09-28,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,2,349,,Online,Cash,Completed,2025-09-28
+O6127,1,2025-10-16,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,1,2499,0.0,Online,UPI,Completed,2025-10-16
+O6128,1,2025-08-08,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,4,899,50.0,Online,Cash,Completed,2025-08-08
+O6129,1,2025-10-25,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,3,1599,50.0,Online,UPI,Cancelled,2025-10-25
+O6130,1,2025-11-30,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,4,1599,,Online,UPI,Cancelled,2025-11-30
+O6131,1,2025-11-13,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,1,899,50.0,Store,Cash,Completed,2025-11-13
+O6132,1,2025-08-15,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,4,349,,Online,Cash,Cancelled,2025-08-15
+O6133,1,2025-09-30,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,3,699,100.0,Store,Cash,Completed,2025-09-30
+O6134,1,2025-11-15,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,3,2499,50.0,Store,Card,Cancelled,2025-11-15
+O6135,1,2025-10-16,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,1,349,0.0,Store,UPI,Cancelled,2025-10-16
+O6136,1,2025-10-03,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,4,899,100.0,Online,Cash,Cancelled,2025-10-03
+O6137,1,2025-10-13,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,1,2499,50.0,Online,Cash,Cancelled,2025-10-13
+O6138,1,2025-09-06,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,2,1599,100.0,Store,UPI,Cancelled,2025-09-06
+O6139,1,2025-10-05,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,2,699,0.0,Online,Cash,Cancelled,2025-10-05
+O6140,1,2025-12-08,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,3,899,,Online,UPI,Completed,2025-12-08
+O6141,1,2026-01-04,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,1,699,0.0,Online,Cash,Completed,2026-01-04
+O6142,1,2025-12-23,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,1,349,50.0,Store,UPI,Cancelled,2025-12-23
+O6143,1,2025-11-10,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,3,899,0.0,Store,UPI,Completed,2025-11-10
+O6144,1,2025-09-01,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,2,1599,50.0,Store,UPI,Completed,2025-09-01
+O6145,1,2025-08-06,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,2,349,50.0,Online,Card,Completed,2025-08-06
+O6146,1,2025-09-22,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,1,899,100.0,Online,UPI,Completed,2025-09-22
+O6147,1,2025-08-19,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,2,1599,50.0,Online,Card,Completed,2025-08-19
+O6148,1,2025-08-25,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,3,899,100.0,Online,UPI,Completed,2025-08-25
+O6149,1,2025-10-13,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,1,2499,,Online,Card,Completed,2025-10-13
+O6150,1,2025-11-03,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,1,349,100.0,Online,UPI,Completed,2025-11-03
+O6151,1,2025-12-22,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,1,899,50.0,Online,UPI,Completed,2025-12-22
+O6152,1,2025-11-25,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,2,899,50.0,Store,UPI,Completed,2025-11-25
+O6153,1,2025-08-27,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,2,699,,Store,UPI,Completed,2025-08-27
+O6154,1,2025-12-31,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,3,349,50.0,Store,Cash,Cancelled,2025-12-31
+O6155,1,2025-09-19,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,3,349,50.0,Store,Card,Completed,2025-09-19
+O6156,1,2025-09-01,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,2,2499,,Store,Card,Completed,2025-09-01
+O6157,1,2025-11-12,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,2,1599,50.0,Store,Card,Completed,2025-11-12
+O6158,1,2026-01-01,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,3,899,0.0,Online,UPI,Completed,2026-01-01
+O6159,1,2025-12-04,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,3,2499,100.0,Store,Cash,Completed,2025-12-04
+O6160,1,2025-10-23,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,1,2499,0.0,Online,Cash,Completed,2025-10-23
+O6161,1,2025-11-17,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,4,2499,,Online,Cash,Completed,2025-11-17
+O6162,1,2025-08-20,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,2,2499,100.0,Online,Card,Completed,2025-08-20
+O6163,1,2025-11-27,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,2,899,0.0,Store,Cash,Completed,2025-11-27
+O6164,1,2025-11-17,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,1,699,100.0,Online,UPI,Completed,2025-11-17
+O6165,1,2025-10-18,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,3,349,100.0,Online,Cash,Completed,2025-10-18
+O6166,1,2025-08-26,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,2,1599,0.0,Store,UPI,Completed,2025-08-26
+O6167,1,2025-12-03,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,4,2499,0.0,Store,UPI,Completed,2025-12-03
+O6168,1,2025-09-06,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,2,2499,,Store,Cash,Completed,2025-09-06
+O6169,1,2025-08-30,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,2,349,,Online,UPI,Completed,2025-08-30
+O6170,1,2026-01-03,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,4,1599,50.0,Online,Cash,Completed,2026-01-03
+O6171,1,2025-10-27,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,2,899,50.0,Store,Cash,Completed,2025-10-27
+O6172,1,2025-09-08,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,1,1599,100.0,Online,Card,Completed,2025-09-08
+O6173,1,2025-09-21,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,2,1599,,Online,Cash,Completed,2025-09-21
+O6174,1,2025-11-30,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,3,2499,100.0,Store,UPI,Completed,2025-11-30
+O6175,1,2025-08-28,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,3,699,50.0,Online,Cash,Completed,2025-08-28
+O6176,1,2025-08-16,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,3,2499,100.0,Online,Card,Completed,2025-08-16
+O6177,1,2025-09-24,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,2,2499,,Store,Card,Completed,2025-09-24
+O6178,1,2025-09-03,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,2,1599,0.0,Store,UPI,Completed,2025-09-03
+O6179,1,2025-09-09,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,3,699,50.0,Store,Card,Completed,2025-09-09
+O6180,1,2025-12-04,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,4,349,0.0,Store,UPI,Completed,2025-12-04
+O6181,1,2025-09-18,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,4,2499,,Online,UPI,Completed,2025-09-18
+O6182,1,2025-10-11,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,2,699,100.0,Online,UPI,Completed,2025-10-11
+O6183,1,2025-11-06,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,3,2499,0.0,Online,UPI,Cancelled,2025-11-06
+O6184,1,2025-08-10,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,3,2499,,Store,Cash,Completed,2025-08-10
+O6185,1,2025-09-14,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,1,899,100.0,Online,Card,Cancelled,2025-09-14
+O6186,1,2025-11-05,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,4,899,50.0,Store,Cash,Completed,2025-11-05
+O6187,1,2025-09-27,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,2,1599,,Online,Cash,Completed,2025-09-27
+O6188,1,2025-12-03,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,3,899,0.0,Online,UPI,Cancelled,2025-12-03
+O6189,1,2025-09-23,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,4,349,50.0,Store,UPI,Completed,2025-09-23
+O6190,1,2025-09-10,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,3,699,0.0,Store,Card,Completed,2025-09-10
+O6191,1,2025-10-26,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,3,2499,100.0,Online,UPI,Completed,2025-10-26
+O6192,1,2025-11-10,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,2,699,100.0,Online,UPI,Cancelled,2025-11-10
+O6193,1,2025-08-15,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,2,699,100.0,Online,Cash,Completed,2025-08-15
+O6194,1,2025-08-09,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,4,2499,100.0,Store,UPI,Completed,2025-08-09
+O6195,1,2025-10-14,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,1,699,100.0,Store,Cash,Completed,2025-10-14
+O6196,1,2025-12-17,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,2,1599,,Online,UPI,Completed,2025-12-17
+O6197,1,2025-12-03,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,1,899,50.0,Online,UPI,Cancelled,2025-12-03
+O6198,1,2025-09-08,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,3,349,50.0,Online,Cash,Cancelled,2025-09-08
+O6199,1,2025-09-23,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,3,699,,Online,UPI,Cancelled,2025-09-23
+O6200,1,2025-08-23,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,1,699,,Store,Card,Cancelled,2025-08-23
+O6201,1,2025-10-18,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,4,2499,100.0,Store,Cash,Completed,2025-10-18
+O6202,1,2025-11-09,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,3,349,,Store,Card,Completed,2025-11-09
+O6203,1,2025-09-06,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,2,699,100.0,Online,UPI,Completed,2025-09-06
+O6204,1,2025-08-03,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,4,1599,100.0,Online,Cash,Completed,2025-08-03
+O6205,1,2025-11-17,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,2,1599,,Online,UPI,Completed,2025-11-17
+O6206,1,2025-10-12,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,2,349,0.0,Store,Card,Completed,2025-10-12
+O6207,1,2025-08-09,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,4,2499,0.0,Online,Card,Completed,2025-08-09
+O6208,1,2025-09-19,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,3,1599,,Online,Cash,Cancelled,2025-09-19
+O6209,1,2026-01-03,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,1,699,0.0,Online,UPI,Completed,2026-01-03
+O6210,1,2025-09-17,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,2,699,100.0,Store,Card,Cancelled,2025-09-17
+O6211,1,2025-11-17,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,4,899,100.0,Online,Cash,Completed,2025-11-17
+O6212,1,2025-09-01,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,2,349,50.0,Store,Card,Completed,2025-09-01
+O6213,1,2025-09-25,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,3,2499,50.0,Online,Cash,Completed,2025-09-25
+O6214,1,2025-09-27,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,2,2499,0.0,Online,Cash,Cancelled,2025-09-27
+O6215,1,2025-10-15,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,2,2499,100.0,Store,Cash,Completed,2025-10-15
+O6216,1,2025-10-22,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,1,899,0.0,Store,Cash,Cancelled,2025-10-22
+O6217,1,2025-09-05,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,1,349,0.0,Store,Cash,Completed,2025-09-05
+O6218,1,2025-11-02,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,2,349,,Online,Cash,Completed,2025-11-02
+O6219,1,2025-10-23,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,1,899,0.0,Online,UPI,Completed,2025-10-23
+O6220,1,2025-09-15,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,1,1599,50.0,Store,Card,Cancelled,2025-09-15
+O6221,1,2025-12-01,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,3,699,100.0,Online,Card,Completed,2025-12-01
+O6222,1,2025-08-04,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,3,699,,Store,UPI,Completed,2025-08-04
+O6223,1,2025-11-01,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,4,1599,,Online,Card,Cancelled,2025-11-01
+O6224,1,2025-08-12,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,2,2499,50.0,Online,Cash,Completed,2025-08-12
+O6225,1,2025-11-05,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,1,1599,100.0,Store,Card,Cancelled,2025-11-05
+O6226,1,2025-08-08,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,3,899,0.0,Store,UPI,Completed,2025-08-08
+O6227,1,2025-11-15,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,2,699,100.0,Store,Card,Completed,2025-11-15
+O6228,1,2025-10-07,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,4,899,50.0,Store,Cash,Cancelled,2025-10-07
+O6229,1,2025-08-04,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,1,349,50.0,Store,Cash,Completed,2025-08-04
+O6230,1,2025-12-24,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,3,899,100.0,Online,Cash,Cancelled,2025-12-24
+O6231,1,2026-01-02,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,3,899,0.0,Store,UPI,Completed,2026-01-02
+O6232,1,2025-12-25,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,2,349,,Online,Cash,Completed,2025-12-25
+O6233,1,2025-12-25,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,1,1599,50.0,Online,Card,Completed,2025-12-25
+O6234,1,2025-08-13,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,2,1599,50.0,Store,Cash,Completed,2025-08-13
+O6235,1,2025-10-01,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,1,349,0.0,Online,Cash,Completed,2025-10-01
+O6236,1,2025-10-24,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,4,349,,Online,Card,Completed,2025-10-24
+O6237,1,2025-12-24,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,1,2499,,Store,UPI,Cancelled,2025-12-24
+O6238,1,2025-09-04,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,2,1599,0.0,Online,Card,Cancelled,2025-09-04
+O6239,1,2025-11-30,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,2,1599,,Store,Card,Cancelled,2025-11-30
+O6240,1,2025-08-30,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,4,1599,100.0,Store,Card,Cancelled,2025-08-30
+O6241,1,2025-11-20,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,2,349,100.0,Online,Cash,Cancelled,2025-11-20
+O6242,1,2025-10-18,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,4,2499,100.0,Store,UPI,Completed,2025-10-18
+O6243,1,2025-08-15,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,2,1599,0.0,Online,Cash,Cancelled,2025-08-15
+O6244,1,2025-11-22,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,2,349,100.0,Store,UPI,Cancelled,2025-11-22
+O6245,1,2025-09-20,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,1,699,100.0,Store,Cash,Completed,2025-09-20
+O6246,1,2025-10-13,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,3,899,50.0,Store,Cash,Cancelled,2025-10-13
+O6247,1,2025-12-17,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,4,349,0.0,Online,Card,Completed,2025-12-17
+O6248,1,2025-09-20,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,4,1599,50.0,Store,Cash,Cancelled,2025-09-20
+O6249,1,2025-08-15,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,2,899,0.0,Store,UPI,Completed,2025-08-15
+O6250,1,2025-09-20,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,1,1599,50.0,Store,Card,Completed,2025-09-20
+O6251,1,2025-09-30,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,2,899,50.0,Online,UPI,Completed,2025-09-30
+O6252,1,2025-09-26,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,2,2499,0.0,Online,UPI,Completed,2025-09-26
+O6253,1,2025-08-28,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,2,699,0.0,Online,Card,Completed,2025-08-28
+O6254,1,2025-09-25,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,2,699,100.0,Online,Card,Cancelled,2025-09-25
+O6255,1,2025-10-26,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,3,1599,50.0,Store,Cash,Cancelled,2025-10-26
+O6256,1,2025-10-16,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,4,2499,50.0,Online,UPI,Completed,2025-10-16
+O6257,1,2025-08-22,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,2,2499,100.0,Online,Cash,Completed,2025-08-22
+O6258,1,2025-11-12,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,4,349,100.0,Store,UPI,Completed,2025-11-12
+O6259,1,2025-11-11,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,4,1599,50.0,Online,Card,Completed,2025-11-11
+O6260,1,2025-11-09,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,3,349,50.0,Online,UPI,Cancelled,2025-11-09
+O6261,1,2025-09-16,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,3,899,0.0,Online,UPI,Completed,2025-09-16
+O6262,1,2025-11-09,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,4,1599,0.0,Online,Card,Cancelled,2025-11-09
+O6263,1,2025-12-31,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,1,899,,Store,UPI,Cancelled,2025-12-31
+O6264,1,2025-12-14,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,1,349,100.0,Online,UPI,Cancelled,2025-12-14
+O6265,1,2025-09-30,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,4,699,0.0,Store,Cash,Completed,2025-09-30
+O6266,1,2025-08-31,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,3,1599,50.0,Store,Card,Cancelled,2025-08-31
+O6267,1,2025-11-20,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,3,2499,100.0,Online,UPI,Completed,2025-11-20
+O6268,1,2025-09-10,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,2,699,50.0,Online,Card,Cancelled,2025-09-10
+O6269,1,2025-10-12,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,2,699,50.0,Store,UPI,Completed,2025-10-12
+O6270,1,2025-12-20,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,4,899,,Online,UPI,Completed,2025-12-20
+O6271,1,2025-09-16,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,2,1599,100.0,Store,Card,Cancelled,2025-09-16
+O6272,1,2025-12-21,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,2,699,,Online,UPI,Completed,2025-12-21
+O6273,1,2025-10-12,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,3,349,50.0,Store,Card,Completed,2025-10-12
+O6274,1,2025-09-01,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,4,1599,50.0,Store,UPI,Completed,2025-09-01
+O6275,1,2025-10-27,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,1,699,100.0,Store,Cash,Completed,2025-10-27
+O6276,1,2025-09-26,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,3,1599,50.0,Store,Card,Completed,2025-09-26
+O6277,1,2025-12-27,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,4,349,,Store,Cash,Cancelled,2025-12-27
+O6278,1,2025-10-16,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,1,2499,50.0,Store,UPI,Completed,2025-10-16
+O6279,1,2025-09-29,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,3,699,,Online,Cash,Completed,2025-09-29
+O6280,1,2025-10-18,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,2,699,50.0,Store,Card,Completed,2025-10-18
+O6281,1,2025-12-08,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,3,2499,100.0,Online,Cash,Cancelled,2025-12-08
+O6282,1,2025-11-22,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,4,2499,,Store,Cash,Completed,2025-11-22
+O6283,1,2026-01-02,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,3,899,0.0,Store,UPI,Completed,2026-01-02
+O6284,1,2025-09-22,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,3,2499,50.0,Online,UPI,Cancelled,2025-09-22
+O6285,1,2025-09-29,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,2,1599,50.0,Store,Card,Completed,2025-09-29
+O6286,1,2025-09-14,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,4,2499,,Online,Card,Completed,2025-09-14
+O6287,1,2025-08-25,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,2,2499,100.0,Online,UPI,Completed,2025-08-25
+O6288,1,2026-01-05,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,2,899,,Store,Cash,Cancelled,2026-01-05
+O6289,1,2025-12-17,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,1,2499,100.0,Online,Card,Completed,2025-12-17
+O6290,1,2025-11-18,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,4,2499,50.0,Store,Cash,Completed,2025-11-18
+O6291,1,2025-10-18,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,4,349,,Store,Card,Completed,2025-10-18
+O6292,1,2025-11-09,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,2,1599,50.0,Online,Card,Completed,2025-11-09
+O6293,1,2025-11-06,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,1,899,100.0,Online,Cash,Completed,2025-11-06
+O6294,1,2025-08-10,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,3,899,,Online,Card,Completed,2025-08-10
+O6295,1,2025-08-22,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,4,699,0.0,Online,Cash,Completed,2025-08-22
+O6296,1,2025-12-24,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,3,1599,,Store,Cash,Cancelled,2025-12-24
+O6297,1,2025-11-19,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,3,2499,0.0,Store,Card,Cancelled,2025-11-19
+O6298,1,2025-10-14,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,4,899,,Store,UPI,Completed,2025-10-14
+O6299,1,2025-08-28,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,2,699,0.0,Online,UPI,Completed,2025-08-28
+O6300,1,2025-10-11,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,1,699,,Online,UPI,Completed,2025-10-11
+O6301,1,2025-09-30,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,4,2499,,Online,Cash,Completed,2025-09-30
+O6302,1,2025-09-09,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,3,349,50.0,Online,UPI,Completed,2025-09-09
+O6303,1,2025-12-12,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,1,899,100.0,Store,UPI,Completed,2025-12-12
+O6304,1,2025-11-06,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,2,2499,100.0,Online,Card,Completed,2025-11-06
+O6305,1,2025-11-02,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,4,699,50.0,Store,Cash,Completed,2025-11-02
+O6306,1,2026-01-02,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,4,2499,50.0,Store,Cash,Completed,2026-01-02
+O6307,1,2025-08-14,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,4,2499,50.0,Store,UPI,Cancelled,2025-08-14
+O6308,1,2025-09-06,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,4,2499,,Store,Card,Completed,2025-09-06
+O6309,1,2025-08-16,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,1,899,50.0,Online,Cash,Completed,2025-08-16
+O6310,1,2025-09-15,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,4,2499,0.0,Store,Cash,Completed,2025-09-15
+O6311,1,2025-10-03,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,4,2499,,Online,Cash,Completed,2025-10-03
+O6312,1,2025-09-13,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,1,2499,50.0,Store,UPI,Completed,2025-09-13
+O6313,1,2025-11-29,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,3,1599,50.0,Store,Card,Cancelled,2025-11-29
+O6314,1,2025-10-07,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,2,1599,100.0,Online,Card,Completed,2025-10-07
+O6315,1,2025-12-16,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,1,1599,,Online,Cash,Completed,2025-12-16
+O6316,1,2025-09-02,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,1,1599,50.0,Online,Cash,Cancelled,2025-09-02
+O6317,1,2025-10-25,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,1,699,0.0,Online,UPI,Completed,2025-10-25
+O6318,1,2025-12-09,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,3,1599,50.0,Online,UPI,Completed,2025-12-09
+O6319,1,2025-12-15,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,4,2499,100.0,Store,Card,Completed,2025-12-15
+O6320,1,2025-11-04,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,3,899,100.0,Online,Card,Completed,2025-11-04
+O6321,1,2025-08-19,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,2,2499,0.0,Online,Card,Completed,2025-08-19
+O6322,1,2025-08-19,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,2,349,50.0,Store,UPI,Completed,2025-08-19
+O6323,1,2025-10-09,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,2,899,,Online,Card,Cancelled,2025-10-09
+O6324,1,2026-01-04,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,1,899,50.0,Online,Card,Completed,2026-01-04
+O6325,1,2025-10-04,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,3,699,0.0,Store,UPI,Completed,2025-10-04
+O6326,1,2025-08-06,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,1,699,100.0,Store,UPI,Completed,2025-08-06
+O6327,1,2025-10-02,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,4,899,50.0,Store,Card,Completed,2025-10-02
+O6328,1,2025-10-23,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,2,349,,Store,Card,Cancelled,2025-10-23
+O6329,1,2025-11-07,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,3,899,100.0,Online,UPI,Cancelled,2025-11-07
+O6330,1,2025-11-21,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,4,2499,0.0,Online,Cash,Cancelled,2025-11-21
+O6331,1,2025-12-19,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,2,2499,,Online,Cash,Completed,2025-12-19
+O6332,1,2025-11-28,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,3,899,50.0,Online,Card,Completed,2025-11-28
+O6333,1,2025-09-14,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,1,2499,50.0,Store,Card,Completed,2025-09-14
+O6334,1,2025-10-02,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,2,2499,,Online,Cash,Cancelled,2025-10-02
+O6335,1,2025-08-02,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,2,899,50.0,Online,Cash,Completed,2025-08-02
+O6336,1,2025-10-03,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,1,1599,100.0,Online,UPI,Cancelled,2025-10-03
+O6337,1,2025-09-01,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,4,899,,Online,UPI,Completed,2025-09-01
+O6338,1,2026-01-03,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,2,699,50.0,Store,UPI,Completed,2026-01-03
+O6339,1,2025-09-11,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,3,2499,,Store,Card,Completed,2025-09-11
+O6340,1,2025-09-05,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,4,1599,50.0,Store,Card,Completed,2025-09-05
+O6341,1,2025-08-14,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,4,349,100.0,Online,Card,Completed,2025-08-14
+O6342,1,2025-08-13,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,4,1599,0.0,Store,Cash,Completed,2025-08-13
+O6343,1,2025-09-23,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,4,1599,,Store,Card,Completed,2025-09-23
+O6344,1,2025-08-05,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,3,349,0.0,Store,UPI,Completed,2025-08-05
+O6345,1,2025-11-22,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,1,899,50.0,Store,Card,Completed,2025-11-22
+O6346,1,2025-10-17,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,2,349,,Store,Card,Cancelled,2025-10-17
+O6347,1,2025-09-03,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,3,2499,50.0,Store,UPI,Completed,2025-09-03
+O6348,1,2025-10-17,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,4,899,,Store,UPI,Completed,2025-10-17
+O6349,1,2025-12-11,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,3,699,50.0,Store,UPI,Cancelled,2025-12-11
+O6350,1,2025-12-27,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,4,2499,0.0,Online,UPI,Completed,2025-12-27
+O6351,1,2025-08-04,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,4,899,100.0,Store,Card,Cancelled,2025-08-04
+O6352,1,2025-10-14,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,1,349,,Store,UPI,Completed,2025-10-14
+O6353,1,2025-10-14,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,1,2499,100.0,Store,UPI,Cancelled,2025-10-14
+O6354,1,2025-09-16,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,2,1599,,Store,Card,Completed,2025-09-16
+O6355,1,2025-09-13,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,2,1599,0.0,Store,Card,Completed,2025-09-13
+O6356,1,2025-10-20,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,2,349,100.0,Store,Cash,Cancelled,2025-10-20
+O6357,1,2025-10-24,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,2,699,50.0,Online,Card,Cancelled,2025-10-24
+O6358,1,2025-11-12,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,1,1599,0.0,Online,UPI,Completed,2025-11-12
+O6359,1,2025-09-25,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,3,1599,100.0,Online,UPI,Cancelled,2025-09-25
+O6360,1,2025-11-18,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,2,699,0.0,Online,UPI,Cancelled,2025-11-18
+O6361,1,2025-09-13,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,2,1599,50.0,Store,Card,Completed,2025-09-13
+O6362,1,2025-08-27,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,4,2499,50.0,Store,Card,Cancelled,2025-08-27
+O6363,1,2025-08-12,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,3,349,50.0,Store,UPI,Completed,2025-08-12
+O6364,1,2025-12-05,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,2,2499,0.0,Store,Card,Completed,2025-12-05
+O6365,1,2025-10-21,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,1,2499,0.0,Online,UPI,Completed,2025-10-21
+O6366,1,2025-12-18,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,4,1599,100.0,Store,Card,Completed,2025-12-18
+O6367,1,2025-11-17,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,2,899,,Online,UPI,Completed,2025-11-17
+O6368,1,2025-09-02,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,2,349,100.0,Store,Cash,Cancelled,2025-09-02
+O6369,1,2025-09-29,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,4,2499,0.0,Store,Card,Cancelled,2025-09-29
+O6370,1,2025-12-03,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,4,1599,50.0,Online,Card,Completed,2025-12-03
+O6371,1,2025-11-29,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,4,2499,0.0,Store,Card,Cancelled,2025-11-29
+O6372,1,2025-12-16,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,3,2499,50.0,Online,Cash,Completed,2025-12-16
+O6373,1,2025-08-14,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,3,1599,50.0,Online,UPI,Completed,2025-08-14
+O6374,1,2025-09-22,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,2,899,,Store,Cash,Completed,2025-09-22
+O6375,1,2025-09-11,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,1,349,100.0,Online,Card,Completed,2025-09-11
+O6376,1,2025-08-23,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,4,349,,Online,Cash,Completed,2025-08-23
+O6377,1,2025-12-23,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,1,899,50.0,Online,Cash,Completed,2025-12-23
+O6378,1,2025-08-31,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,1,699,0.0,Online,Cash,Completed,2025-08-31
+O6379,1,2025-10-15,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,4,349,100.0,Store,UPI,Completed,2025-10-15
+O6380,1,2025-09-14,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,3,349,50.0,Online,UPI,Cancelled,2025-09-14
+O6381,1,2025-09-16,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,1,1599,50.0,Store,Card,Completed,2025-09-16
+O6382,1,2025-09-07,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,4,899,50.0,Store,Card,Completed,2025-09-07
+O6383,1,2025-12-25,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,3,349,50.0,Store,Card,Cancelled,2025-12-25
+O6384,1,2025-12-27,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,4,2499,,Online,Cash,Completed,2025-12-27
+O6385,1,2025-11-03,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,4,349,0.0,Store,Card,Cancelled,2025-11-03
+O6386,1,2025-08-18,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,3,349,50.0,Store,Card,Completed,2025-08-18
+O6387,1,2025-08-13,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,4,349,0.0,Store,Cash,Completed,2025-08-13
+O6388,1,2025-10-10,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,3,899,100.0,Store,Card,Cancelled,2025-10-10
+O6389,1,2025-12-14,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,4,2499,,Online,Cash,Completed,2025-12-14
+O6390,1,2025-08-14,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,2,2499,100.0,Online,Card,Cancelled,2025-08-14
+O6391,1,2025-10-17,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,3,699,50.0,Store,Card,Completed,2025-10-17
+O6392,1,2025-08-29,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,3,349,50.0,Store,Cash,Completed,2025-08-29
+O6393,1,2025-12-17,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,1,349,,Online,Cash,Completed,2025-12-17
+O6394,1,2025-09-23,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,3,899,0.0,Online,Cash,Completed,2025-09-23
+O6395,1,2025-12-16,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,4,899,50.0,Online,Cash,Cancelled,2025-12-16
+O6396,1,2025-12-19,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,4,699,,Online,Card,Cancelled,2025-12-19
+O6397,1,2025-09-29,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,3,1599,,Store,Card,Cancelled,2025-09-29
+O6398,1,2025-12-08,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,3,349,,Online,Cash,Completed,2025-12-08
+O6399,1,2025-10-24,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,4,2499,100.0,Online,UPI,Completed,2025-10-24
+O6400,1,2025-08-25,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,2,1599,,Online,UPI,Completed,2025-08-25
+O6401,1,2025-08-02,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,2,1599,,Online,Cash,Completed,2025-08-02
+O6402,1,2025-11-12,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,4,699,100.0,Online,Card,Cancelled,2025-11-12
+O6403,1,2025-11-24,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,3,2499,100.0,Online,Cash,Cancelled,2025-11-24
+O6404,1,2025-08-16,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,2,1599,0.0,Store,Cash,Completed,2025-08-16
+O6405,1,2025-08-19,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,1,1599,50.0,Online,Cash,Cancelled,2025-08-19
+O6406,1,2025-12-11,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,1,899,,Online,Cash,Completed,2025-12-11
+O6407,1,2025-08-10,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,2,899,100.0,Store,Cash,Completed,2025-08-10
+O6408,1,2025-12-21,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,1,1599,,Online,Card,Completed,2025-12-21
+O6409,1,2025-10-24,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,4,349,100.0,Online,UPI,Cancelled,2025-10-24
+O6410,1,2025-11-26,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,2,1599,100.0,Online,UPI,Completed,2025-11-26
+O6411,1,2025-11-24,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,1,2499,50.0,Online,Card,Completed,2025-11-24
+O6412,1,2025-10-22,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,1,699,,Store,Cash,Completed,2025-10-22
+O6413,1,2025-10-08,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,4,2499,0.0,Store,Card,Completed,2025-10-08
+O6414,1,2025-10-06,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,1,899,,Online,Cash,Cancelled,2025-10-06
+O6415,1,2025-12-28,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,1,349,100.0,Store,Cash,Completed,2025-12-28
+O6416,1,2025-08-11,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,3,899,0.0,Store,UPI,Completed,2025-08-11
+O6417,1,2025-10-22,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,2,1599,0.0,Store,Cash,Completed,2025-10-22
+O6418,1,2025-12-06,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,4,2499,50.0,Store,UPI,Completed,2025-12-06
+O6419,1,2025-12-03,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,1,899,0.0,Store,Card,Cancelled,2025-12-03
+O6420,1,2025-11-10,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,3,349,50.0,Online,Cash,Completed,2025-11-10
+O6421,1,2025-10-12,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,4,349,,Online,UPI,Cancelled,2025-10-12
+O6422,1,2025-08-27,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,2,349,0.0,Online,Card,Completed,2025-08-27
+O6423,1,2025-09-21,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,1,349,,Store,UPI,Completed,2025-09-21
+O6424,1,2025-09-22,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,4,2499,50.0,Store,Card,Completed,2025-09-22
+O6425,1,2025-09-15,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,3,899,,Online,UPI,Cancelled,2025-09-15
+O6426,1,2025-09-16,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,1,349,100.0,Store,Cash,Cancelled,2025-09-16
+O6427,1,2025-09-07,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,3,349,50.0,Online,UPI,Cancelled,2025-09-07
+O6428,1,2025-10-03,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,4,699,50.0,Store,UPI,Cancelled,2025-10-03
+O6429,1,2025-08-04,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,2,699,,Online,Card,Completed,2025-08-04
+O6430,1,2025-10-25,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,1,899,100.0,Store,Card,Cancelled,2025-10-25
+O6431,1,2025-09-17,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,1,349,0.0,Online,UPI,Completed,2025-09-17
+O6432,1,2025-12-05,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,3,1599,,Online,UPI,Cancelled,2025-12-05
+O6433,1,2025-11-13,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,4,349,,Online,Cash,Cancelled,2025-11-13
+O6434,1,2026-01-05,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,3,899,100.0,Online,UPI,Completed,2026-01-05
+O6435,1,2025-08-17,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,3,699,,Store,UPI,Completed,2025-08-17
+O6436,1,2025-11-07,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,1,349,100.0,Online,Card,Completed,2025-11-07
+O6437,1,2025-10-26,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,3,1599,100.0,Store,Card,Completed,2025-10-26
+O6438,1,2025-12-19,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,4,349,,Store,Cash,Completed,2025-12-19
+O6439,1,2025-12-11,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,3,1599,100.0,Online,Cash,Cancelled,2025-12-11
+O6440,1,2025-11-16,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,1,349,0.0,Store,Cash,Completed,2025-11-16
+O6441,1,2025-09-15,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,2,2499,0.0,Online,Cash,Cancelled,2025-09-15
+O6442,1,2025-09-23,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,2,349,0.0,Online,Cash,Completed,2025-09-23
+O6443,1,2025-10-13,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,4,699,0.0,Store,UPI,Completed,2025-10-13
+O6444,1,2025-09-28,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,2,2499,,Online,Card,Cancelled,2025-09-28
+O6445,1,2025-08-08,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,4,1599,0.0,Online,Cash,Completed,2025-08-08
+O6446,1,2025-09-08,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,1,899,100.0,Store,UPI,Cancelled,2025-09-08
+O6447,1,2025-10-27,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,2,1599,100.0,Online,UPI,Cancelled,2025-10-27
+O6448,1,2025-09-12,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,3,2499,50.0,Store,UPI,Completed,2025-09-12
+O6449,1,2025-12-17,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,4,699,,Store,UPI,Completed,2025-12-17
+O6450,1,2025-08-31,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,2,699,50.0,Store,Card,Cancelled,2025-08-31
+O6451,1,2025-11-10,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,2,2499,,Online,Cash,Completed,2025-11-10
+O6452,1,2025-08-18,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,2,1599,100.0,Store,UPI,Cancelled,2025-08-18
+O6453,1,2025-09-10,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,3,699,100.0,Online,Cash,Completed,2025-09-10
+O6454,1,2025-11-28,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,4,349,0.0,Store,Cash,Completed,2025-11-28
+O6455,1,2025-09-05,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,1,699,,Online,UPI,Completed,2025-09-05
+O6456,1,2025-10-21,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,3,349,,Online,Card,Completed,2025-10-21
+O6457,1,2025-09-28,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,1,1599,,Online,Card,Completed,2025-09-28
+O6458,1,2025-10-18,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,1,699,0.0,Online,Card,Completed,2025-10-18
+O6459,1,2025-12-30,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,4,2499,,Online,Card,Cancelled,2025-12-30
+O6460,1,2025-08-21,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,2,899,50.0,Online,UPI,Completed,2025-08-21
+O6461,1,2025-11-18,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,4,2499,0.0,Store,UPI,Cancelled,2025-11-18
+O6462,1,2025-10-26,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,1,349,50.0,Store,UPI,Cancelled,2025-10-26
+O6463,1,2025-12-27,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,4,349,,Online,UPI,Completed,2025-12-27
+O6464,1,2025-11-18,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,3,1599,50.0,Online,Cash,Completed,2025-11-18
+O6465,1,2025-10-20,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,1,1599,0.0,Store,Card,Cancelled,2025-10-20
+O6466,1,2025-11-10,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,3,699,0.0,Store,Card,Completed,2025-11-10
+O6467,1,2025-09-05,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,1,349,,Store,UPI,Cancelled,2025-09-05
+O6468,1,2025-10-31,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,2,899,,Store,UPI,Completed,2025-10-31
+O6469,1,2025-08-05,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,2,699,0.0,Store,Card,Completed,2025-08-05
+O6470,1,2025-09-27,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,4,349,,Store,Card,Cancelled,2025-09-27
+O6471,1,2025-11-02,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,2,699,50.0,Store,Card,Cancelled,2025-11-02
+O6472,1,2025-10-29,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,2,349,,Store,Card,Cancelled,2025-10-29
+O6473,1,2025-11-23,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,3,899,,Online,UPI,Completed,2025-11-23
+O6474,1,2025-08-13,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,3,699,,Store,Cash,Cancelled,2025-08-13
+O6475,1,2025-08-22,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,1,349,100.0,Store,Card,Completed,2025-08-22
+O6476,1,2025-08-16,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,4,899,0.0,Store,Card,Completed,2025-08-16
+O6477,1,2025-10-29,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,4,1599,100.0,Online,Cash,Cancelled,2025-10-29
+O6478,1,2025-10-12,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,1,1599,50.0,Online,UPI,Completed,2025-10-12
+O6479,1,2025-08-04,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,2,1599,,Store,UPI,Cancelled,2025-08-04
+O6480,1,2025-08-20,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,3,2499,,Store,Cash,Completed,2025-08-20
+O6481,1,2025-12-29,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,1,1599,,Store,UPI,Completed,2025-12-29
+O6482,1,2025-09-12,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,2,1599,0.0,Online,Card,Completed,2025-09-12
+O6483,1,2025-09-05,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,1,1599,,Online,Cash,Completed,2025-09-05
+O6484,1,2025-08-28,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,2,2499,50.0,Store,Card,Completed,2025-08-28
+O6485,1,2025-12-10,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,1,699,0.0,Online,UPI,Cancelled,2025-12-10
+O6486,1,2025-09-28,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,2,1599,,Store,Cash,Completed,2025-09-28
+O6487,1,2025-11-17,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,1,899,0.0,Store,Card,Completed,2025-11-17
+O6488,1,2025-08-09,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,4,899,50.0,Online,UPI,Completed,2025-08-09
+O6489,1,2026-01-02,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,3,2499,0.0,Store,UPI,Cancelled,2026-01-02
+O6490,1,2025-10-15,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,2,1599,100.0,Store,Card,Completed,2025-10-15
+O6491,1,2025-11-23,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,2,1599,50.0,Online,UPI,Completed,2025-11-23
+O6492,1,2025-11-22,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,3,1599,0.0,Online,UPI,Completed,2025-11-22
+O6493,1,2025-12-27,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,4,699,50.0,Online,Cash,Completed,2025-12-27
+O6494,1,2025-11-18,C101,Aarohi Sharma,F,,aarohi.sharma@gmail.com,,Mumbai,MH,India,P003,Beard Trimmer,Personal Care,Grooming,TrimX,1,1599,100.0,Store,UPI,Completed,2025-11-18
+O6495,1,2025-11-12,C103,Rahul Mehta,M,,rahul.mehta@gmail.com,,Ahmedabad,GJ,India,P001,Vitamin C Face Serum,Beauty,Skincare,GlowUp,3,899,0.0,Store,Card,Completed,2025-11-12
+O6496,1,2025-10-19,C105,Suresh Kumar,M,,suresh.k@gmail.com,,Coimbatore,TN,India,P002,Matte Lipstick,Beauty,Makeup,GlamHer,3,699,,Online,Cash,Completed,2025-10-19
+O6497,1,2025-12-17,C106,Kavya Nair,F,,kavya.nair@gmail.com,,Kochi,KL,India,P004,Bluetooth Headphones,Electronics,Audio,SoundMax,4,2499,100.0,Online,UPI,Completed,2025-12-17
+O6498,1,2025-09-06,C104,Priya Iyer,F,,priya.iyer@gmail.com,,Chennai,TN,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,2,349,100.0,Online,Card,Completed,2025-09-06
+O6499,1,2025-12-12,C102,Neha Kapoor,F,,neha.k@gmail.com,,Delhi,DL,India,P005,Baby Lotion,Baby Care,Skincare,BabySoft,4,349,0.0,Store,Card,Completed,2025-12-12
